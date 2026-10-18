@@ -1,11 +1,11 @@
 {
-  "name": "Ahmed Arat — Portfolio",
-  "short_name": "Ahmed Arat",
+  "name": "Geethu K A — Portfolio",
+  "short_name": "Geethu K A",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0d0e",
   "theme_color": "#fde047",
-  "description": "Ahmed Arat — Full-Stack developer portfolio. About, work, experience and contact.",
+  "description": "Geethu K A — Front-End developer portfolio. About, work, experience and contact.",
   "icons": [
     {
       "src": "/public/favicon.png",

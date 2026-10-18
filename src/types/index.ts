@@ -43,9 +43,9 @@ export interface Attribute {
 export interface SiteConfig {
     name: string;
     role: string;
-    bio: string[];
     typewriterWords: string[]; // For the hero animation
     location: string;
+    bio: string[],
     email: string;
     contact: {
         formspreeUrl?: string;
